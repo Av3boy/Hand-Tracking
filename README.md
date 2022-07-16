@@ -1,2 +1,9 @@
 # Hand-Tracking
-Detect hands using the OpenCV library
+
+## Introduction
+
+Detect hands using the OpenCV library.
+
+## Improvements
+
+Convert program to C++ to improve efficiency
